@@ -2,11 +2,15 @@ import logo from './logo.svg';
 import './App.css';
 
 import RegisterForm from './pages/RegisterForm'
+import ImageUploadForm from './pages/Image';
+import UseEffectExample from './pages/UseEffectExample';
 function App() {
   return (
    <>
    {/* <LoginForm/> */}
-   <RegisterForm/>
+   {/* <RegisterForm/> */}
+   {/* <ImageUploadForm/> */}
+   <UseEffectExample/>
    </>
   )}
    
