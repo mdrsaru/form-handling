@@ -1,0 +1,18 @@
+.title{
+    color:rebeccapurple;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.table-head{
+    font-size:1rem;
+    color:rebeccapurple
+}
+
+.completed{
+    color:green
+}
+
+.not-completed{
+    color:red;
+}
